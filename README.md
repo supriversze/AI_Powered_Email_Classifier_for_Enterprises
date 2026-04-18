@@ -1,5 +1,5 @@
 ![Banner](./banner.png)
-# 🚀 AI Powered Email Classifier for Enterprises
+# AI Powered Email Classifier for Enterprises
 
 An intelligent email classification system that automatically categorizes emails and detects their urgency using a hybrid approach combining DistilBERT deep learning models and rule-based filtering.
 
